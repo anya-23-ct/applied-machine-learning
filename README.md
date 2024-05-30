@@ -1,2 +1,2 @@
 # machine-learning-ct
-machine learning course projects @ CU
+applied machine learning course projects @ CT
